@@ -1,3 +1,3 @@
 # Notas
 
-Primer ejemplo de server usuando sockets
+Primer ejemplo de server usuando sockets, socket.io + express
